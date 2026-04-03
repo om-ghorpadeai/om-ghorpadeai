@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Om Ghorpade 👋
 
-<!--
-**om-ghorpadeai/om-ghorpadeai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 AI and Data Science Student  
+🚀 Future AI Engineer  
+📊 Passionate about Python, AI & Problem Solving  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Python
+- Problem Solving
+- Basic Data Structures
+
+---
+
+## 📂 Projects
+- 💼 Personal Finance Manager
+- 💰 Expense Tracker
+- 🔐 Password Generator
+
+---
+
+## 🎯 Goal
+To become a skilled AI Engineer and build impactful real-world solutions.
+
+---
+
+## 📈 Currently Learning
+- Python Advanced
+- Data Science
+- Machine Learning (soon)
