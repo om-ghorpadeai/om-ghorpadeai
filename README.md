@@ -34,3 +34,15 @@ To become an AI Engineer and build impactful real-world solutions.
 
 ## ⚡ Fun Fact
 I am building my coding journey daily on GitHub 🚀
+
+## 📊 GitHub Stats
+
+![Om's GitHub stats](https://github-readme-stats.vercel.app/api?username=om-ghorpadeai&show_icons=true&theme=radical)
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=om-ghorpadeai&theme=radical)
+
+## 📈 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=om-ghorpadeai&theme=react-dark)
