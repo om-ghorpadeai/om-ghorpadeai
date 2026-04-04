@@ -2,30 +2,35 @@
 
 💻 AI and Data Science Student  
 🚀 Future AI Engineer  
-📊 Passionate about Python, AI & Problem Solving  
+📊 Passionate about Python & Problem Solving  
 
 ---
 
 ## 🛠️ Skills
-- Python
-- Problem Solving
-- Basic Data Structures
+- Python 🐍
+- Problem Solving 🧠
+- Basic Data Structures 📚
 
 ---
 
 ## 📂 Projects
-- 💼 Personal Finance Manager
-- 💰 Expense Tracker
-- 🔐 Password Generator
-
----
-
-## 🎯 Goal
-To become a skilled AI Engineer and build impactful real-world solutions.
+- 💼 Personal Finance Manager  
+- 💰 Expense Tracker  
+- 🔐 Password Generator  
 
 ---
 
 ## 📈 Currently Learning
-- Python Advanced
-- Data Science
-- Machine Learning (soon)
+- Advanced Python  
+- Data Science  
+- Machine Learning  
+
+---
+
+## 🎯 Goal
+To become an AI Engineer and build impactful real-world solutions.
+
+---
+
+## ⚡ Fun Fact
+I am building my coding journey daily on GitHub 🚀
