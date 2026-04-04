@@ -3,7 +3,7 @@
 💻 AI and Data Science Student  
 🚀 Future AI Engineer  
 📊 Passionate about Python & Problem Solving  
-
+💡 Building projects daily and improving consistently
 ---
 
 ## 🛠️ Skills
