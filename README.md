@@ -2,7 +2,7 @@
 
 ### 🤖 AI & Data Science Engineering Student | Future AI Engineer
 
-I’m an engineering student focused on **Artificial Intelligence, Data Science, Python, Machine Learning, and AI Engineering**.
+I'm an engineering student focused on **Artificial Intelligence, Data Science, Python, Machine Learning, and AI Engineering**.
 
 I learn by building — turning concepts into projects, solving problems, experimenting with new technologies, and continuously improving my engineering skills.
 
@@ -39,7 +39,7 @@ I learn by building — turning concepts into projects, solving problems, experi
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![AI](https://img.shields.io/badge/Artificial_Intelligence-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ### 🧰 Tools & Development
 
