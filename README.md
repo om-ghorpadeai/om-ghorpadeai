@@ -205,24 +205,27 @@ My goal is to understand concepts deeply enough that I can:
 
 ---
 
-## 📊 GitHub Analytics
+---
 
-![Om's GitHub Stats](https://github-readme-stats.vercel.app/api?username=om-ghorpadeai&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github)
+## 📊 GitHub Activity
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=om-ghorpadeai&layout=compact&theme=github_dark&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-streak-stats.demolab.com/?user=om-ghorpadeai&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
-## 🔥 GitHub Streak
+## 🟩 GitHub Contributions
 
-![GitHub Streak](https://streak-stats.demolab.com?user=om-ghorpadeai&theme=github-dark-blue&hide_border=true)
+<p align="center">
+
+[![GitHub Profile](https://img.shields.io/badge/View%20My%20GitHub%20Contributions-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/om-ghorpadeai)
+
+</p>
+
+> 📈 My GitHub profile contains my live contribution graph, repositories, commits, pull requests, and development activity.
 
 ---
-
-## 📈 Contribution Activity
-
-![Om Ghorpade's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=om-ghorpadeai&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true)
-
 ---
 
 ## 🏆 Engineering Principles
