@@ -274,10 +274,9 @@ The goal is to understand **how the pieces work together to build real systems.*
 
 ## 🌐 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-Om%20Ghorpade-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/om-ghorpadeai)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/om-ghorpadeai)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Omkar%20Ghorpade-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omkar-ghorpade-692278376/)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7B61FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omkar-ghorpade-692278376/) 
 ---
 
 ## ⚡ Final Thought
