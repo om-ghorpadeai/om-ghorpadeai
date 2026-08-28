@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Omkar Ghorpade
+# 👋 Hi, I'm Omkar Ghorpade.
 
 ### 🤖 AI & Data Science Engineering Student | Future AI Engineer
 
