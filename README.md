@@ -62,7 +62,7 @@ I learn by building — turning concepts into projects, solving problems, experi
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
----
+--- 
 
 ## 🚀 Featured Projects
 
