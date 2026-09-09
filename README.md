@@ -8,7 +8,7 @@ I learn by building — turning concepts into projects, solving problems, experi
 
 > 🚀 **Learn → Build → Debug → Understand → Improve → Repeat**
 
----
+-----
 
 ## 🧠 About Me
 
