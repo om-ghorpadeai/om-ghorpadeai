@@ -115,6 +115,61 @@ Small projects and experiments focused on:
                              ↓
                     ┌─────────────────┐
                     │      SHIP       │
-
-
                     └─────────────────┘
+
+🎮 ⚡ STORM RUNNER
+<div align="center">
+MY CONTRIBUTION GRAPH — TURNED INTO AN ARCADE BATTLEFIELD
+<img src="https://github.com/om-ghorpadeai/om-ghorpadeai/blob/main/assets/storm-core.svg" width="900" alt="Storm Runner contribution game">
+
+Every contribution becomes part of the battlefield.
+
+</div>
+
+🧭 CURRENT FOCUS
+
+AI ENGINEERING
+      │
+      ├── Machine Learning
+      │
+      ├── Data Science
+      │
+      ├── Software Systems
+      │
+      └── Developer Tools
+
+🧠 ENGINEERING PHILOSOPHY
+
+Build first.
+Break things.
+Understand the failure.
+Improve the design.
+Ship again.
+
+I don't want to only learn how to use tools.
+
+I want to understand what happens underneath them.
+
+              AI
+               │
+               ↓
+         INTELLIGENCE
+               │
+               ↓
+            SYSTEMS
+               │
+               ↓
+          AUTOMATION
+               │
+               ↓
+             DATA
+               │
+               ↓
+           SOFTWARE
+               │
+               ↓
+        USEFUL SYSTEMS
+
+
+
+
