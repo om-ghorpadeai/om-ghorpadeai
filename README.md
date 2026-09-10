@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ OMKAR GHORPADE
+<img src="./assets/omkar-storm-name.svg" width="850" alt="Omkar Ghorpade">
 
 ### AI ENGINEERING • MACHINE LEARNING • SOFTWARE • SYSTEMS
 
