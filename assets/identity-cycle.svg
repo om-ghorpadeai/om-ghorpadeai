@@ -1,0 +1,167 @@
+<svg width="1000" height="90" viewBox="0 0 1000 90"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+
+    <filter id="pinkGlow">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <linearGradient id="pinkEnergy" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff4fd8"/>
+      <stop offset="50%" stop-color="#ffb3f1"/>
+      <stop offset="100%" stop-color="#ff4fd8"/>
+    </linearGradient>
+
+  </defs>
+
+  <!-- Background -->
+  <rect
+    width="1000"
+    height="90"
+    rx="12"
+    fill="#0d1117"/>
+
+  <!-- Animated Identity -->
+  <g
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="26"
+    font-weight="700"
+    letter-spacing="3"
+    text-anchor="middle"
+    fill="url(#pinkEnergy)"
+    filter="url(#pinkGlow)">
+
+    <!-- 1 AI ENGINEERING -->
+    <text x="500" y="45" opacity="0">
+      AI ENGINEERING
+      <animate
+        attributeName="opacity"
+        values="0;1;1;0"
+        keyTimes="0;0.08;0.20;0.28"
+        dur="8s"
+        begin="0s"
+        repeatCount="indefinite"/>
+    </text>
+
+    <!-- 2 MACHINE LEARNING -->
+    <text x="500" y="45" opacity="0">
+      MACHINE LEARNING
+      <animate
+        attributeName="opacity"
+        values="0;1;1;0"
+        keyTimes="0;0.08;0.20;0.28"
+        dur="8s"
+        begin="1s"
+        repeatCount="indefinite"/>
+    </text>
+
+    <!-- 3 DATA SCIENCE -->
+    <text x="500" y="45" opacity="0">
+      DATA SCIENCE
+      <animate
+        attributeName="opacity"
+        values="0;1;1;0"
+        keyTimes="0;0.08;0.20;0.28"
+        dur="8s"
+        begin="2s"
+        repeatCount="indefinite"/>
+    </text>
+
+    <!-- 4 SOFTWARE ENGINEERING -->
+    <text x="500" y="45" opacity="0">
+      SOFTWARE ENGINEERING
+      <animate
+        attributeName="opacity"
+        values="0;1;1;0"
+        keyTimes="0;0.08;0.20;0.28"
+        dur="8s"
+        begin="3s"
+        repeatCount="indefinite"/>
+    </text>
+
+    <!-- 5 BACKEND SYSTEMS -->
+    <text x="500" y="45" opacity="0">
+      BACKEND SYSTEMS
+      <animate
+        attributeName="opacity"
+        values="0;1;1;0"
+        keyTimes="0;0.08;0.20;0.28"
+        dur="8s"
+        begin="4s"
+        repeatCount="indefinite"/>
+    </text>
+
+    <!-- 6 AI SYSTEMS -->
+    <text x="500" y="45" opacity="0">
+      AI SYSTEMS
+      <animate
+        attributeName="opacity"
+        values="0;1;1;0"
+        keyTimes="0;0.08;0.20;0.28"
+        dur="8s"
+        begin="5s"
+        repeatCount="indefinite"/>
+    </text>
+
+    <!-- 7 DEVELOPER TOOLS -->
+    <text x="500" y="45" opacity="0">
+      DEVELOPER TOOLS
+      <animate
+        attributeName="opacity"
+        values="0;1;1;0"
+        keyTimes="0;0.08;0.20;0.28"
+        dur="8s"
+        begin="6s"
+        repeatCount="indefinite"/>
+    </text>
+
+    <!-- 8 OPEN SOURCE -->
+    <text x="500" y="45" opacity="0">
+      OPEN SOURCE
+      <animate
+        attributeName="opacity"
+        values="0;1;1;0"
+        keyTimes="0;0.08;0.20;0.28"
+        dur="8s"
+        begin="7s"
+        repeatCount="indefinite"/>
+    </text>
+
+  </g>
+
+  <!-- Left Energy Indicator -->
+  <circle
+    cx="35"
+    cy="45"
+    r="5"
+    fill="#ff4fd8">
+
+    <animate
+      attributeName="opacity"
+      values="0.3;1;0.3"
+      dur="1.2s"
+      repeatCount="indefinite"/>
+
+  </circle>
+
+  <!-- Right Energy Indicator -->
+  <circle
+    cx="965"
+    cy="45"
+    r="5"
+    fill="#ff4fd8">
+
+    <animate
+      attributeName="opacity"
+      values="1;0.3;1"
+      dur="1.2s"
+      repeatCount="indefinite"/>
+
+  </circle>
+
+</svg>
