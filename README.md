@@ -8,6 +8,8 @@
 
 </div>
 
+---
+
 <div align="center">
 
 <img src="./assets/storm-core.svg" width="900" alt="Omkar Storm Core">
@@ -30,7 +32,7 @@
 
 ## 🧠 ABOUT ME
 
-I'm an AI & Data Science engineering student interested in understanding how intelligent software is actually built.
+I'm an AI & Data Science engineering student interested in understanding how intelligent software is built.
 
 My interests include:
 
@@ -42,7 +44,7 @@ My interests include:
 - Developer Tools
 - Open Source
 
-I prefer learning by building, breaking things, understanding why they broke, and improving them.
+I learn by building, breaking things, understanding the failure, and improving the design.
 
 ---
 
@@ -116,18 +118,22 @@ Small projects and experiments focused on:
                     ┌─────────────────┐
                     │      SHIP       │
                     └─────────────────┘
+```
+---
 
-🎮 ⚡ STORM RUNNER
-<div align="center">
-MY CONTRIBUTION GRAPH — TURNED INTO AN ARCADE BATTLEFIELD
-<img src="https://github.com/om-ghorpadeai/om-ghorpadeai/blob/main/assets/storm-core.svg" width="900" alt="Storm Runner contribution game">
+# 🎮 ⚡ STORM RUNNER
 
-Every contribution becomes part of the battlefield.
+### MY CONTRIBUTION GRAPH — TURNED INTO AN ARCADE BATTLEFIELD
 
-</div>
+![Storm Runner contribution game](https://raw.githubusercontent.com/om-ghorpadeai/om-ghorpadeai/output/galaga-contribution-graph.svg)
 
-🧭 CURRENT FOCUS
+**Every contribution becomes part of the battlefield.**
 
+---
+
+## 🧭 CURRENT FOCUS
+
+```text
 AI ENGINEERING
       │
       ├── Machine Learning
@@ -150,6 +156,7 @@ I don't want to only learn how to use tools.
 
 I want to understand what happens underneath them.
 
+⚡ LONG-TERM DIRECTION
               AI
                │
                ↓
@@ -169,7 +176,21 @@ I want to understand what happens underneath them.
                │
                ↓
         USEFUL SYSTEMS
+```
 
+Build software that is actually useful.
 
+## 🌐 CONNECT
 
+[![GitHub](https://img.shields.io/badge/GitHub-om--ghorpadeai-181717?style=for-the-badge&logo=github)](https://github.com/om-ghorpadeai)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Omkar%20Ghorpade-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/omkar-ghorpade-692278376/)
 
+---
+
+<div align="center">
+
+### ⚡ BUILD → BREAK → UNDERSTAND → IMPROVE → SHIP
+
+**Always building. Always learning.**
+
+</div>
