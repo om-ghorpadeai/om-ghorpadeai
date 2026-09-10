@@ -1,159 +1,368 @@
-<svg width="900" height="300" viewBox="0 0 900 300" xmlns="http://www.w3.org/2000/svg">
+<svg width="1000" height="400" viewBox="0 0 1000 400"
+     xmlns="http://www.w3.org/2000/svg">
 
-  <defs>
-    <radialGradient id="core" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#ffffff"/>
-      <stop offset="25%" stop-color="#58a6ff"/>
-      <stop offset="60%" stop-color="#1f6feb"/>
-      <stop offset="100%" stop-color="#0d1117"/>
-    </radialGradient>
+<defs>
 
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="5" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-  </defs>
+  <!-- Main energy -->
+  <radialGradient id="core">
+    <stop offset="0%" stop-color="#ffffff"/>
+    <stop offset="22%" stop-color="#a5d6ff"/>
+    <stop offset="55%" stop-color="#388bfd"/>
+    <stop offset="100%" stop-color="#0d1117"/>
+  </radialGradient>
 
   <!-- Background -->
-  <rect width="900" height="300" rx="20" fill="#0d1117"/>
+  <radialGradient id="bg">
+    <stop offset="0%" stop-color="#161b22"/>
+    <stop offset="100%" stop-color="#0d1117"/>
+  </radialGradient>
 
-  <!-- Technical grid -->
-  <g opacity="0.12" stroke="#58a6ff">
-    <path d="M0 50 H900"/>
-    <path d="M0 100 H900"/>
-    <path d="M0 150 H900"/>
-    <path d="M0 200 H900"/>
-    <path d="M0 250 H900"/>
+  <!-- Main glow -->
+  <filter id="glow">
+    <feGaussianBlur stdDeviation="5" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
 
-    <path d="M100 0 V300"/>
-    <path d="M200 0 V300"/>
-    <path d="M300 0 V300"/>
-    <path d="M400 0 V300"/>
-    <path d="M500 0 V300"/>
-    <path d="M600 0 V300"/>
-    <path d="M700 0 V300"/>
-    <path d="M800 0 V300"/>
-  </g>
+  <!-- Soft core glow -->
+  <filter id="softGlow">
+    <feGaussianBlur stdDeviation="15"/>
+  </filter>
 
-  <!-- Energy network -->
-  <g
-    stroke="#58a6ff"
-    stroke-width="2"
-    fill="none"
-    filter="url(#glow)"
-    opacity="0.8">
+</defs>
 
-    <path d="M450 150 L300 70 L180 110"/>
-    <path d="M450 150 L600 70 L720 110"/>
-    <path d="M450 150 L300 230 L180 190"/>
-    <path d="M450 150 L600 230 L720 190"/>
 
-  </g>
+<!-- ================================================= -->
+<!-- BACKGROUND -->
+<!-- ================================================= -->
 
-  <!-- Lightning -->
-  <g
-    stroke="#ffffff"
-    stroke-width="3"
-    fill="none"
-    filter="url(#glow)">
+<rect width="1000" height="400"
+      rx="24"
+      fill="url(#bg)"/>
 
-    <path d="M300 70 L270 115 L290 110 L255 165"/>
-    <path d="M600 70 L630 115 L610 110 L645 165"/>
 
-  </g>
+<!-- ================================================= -->
+<!-- TECHNICAL GRID -->
+<!-- ================================================= -->
 
-  <!-- Central core -->
-  <circle
-    cx="450"
-    cy="150"
-    r="65"
-    fill="#0d1117"
-    stroke="#58a6ff"
-    stroke-width="2"
-    filter="url(#glow)"
-  />
+<g stroke="#58a6ff"
+   stroke-width="1"
+   opacity="0.07">
 
-  <circle
-    cx="450"
-    cy="150"
-    r="42"
-    fill="url(#core)"
-    opacity="0.9"
-  />
+  <path d="M0 60 H1000"/>
+  <path d="M0 120 H1000"/>
+  <path d="M0 180 H1000"/>
+  <path d="M0 240 H1000"/>
+  <path d="M0 300 H1000"/>
+  <path d="M0 360 H1000"/>
 
-  <circle
-    cx="450"
-    cy="150"
-    r="15"
-    fill="#ffffff"
-    filter="url(#glow)"
-  />
+  <path d="M100 0 V400"/>
+  <path d="M200 0 V400"/>
+  <path d="M300 0 V400"/>
+  <path d="M400 0 V400"/>
+  <path d="M500 0 V400"/>
+  <path d="M600 0 V400"/>
+  <path d="M700 0 V400"/>
+  <path d="M800 0 V400"/>
+  <path d="M900 0 V400"/>
 
-  <!-- Orbit -->
-  <ellipse
-    cx="450"
-    cy="150"
-    rx="95"
-    ry="35"
-    fill="none"
-    stroke="#58a6ff"
-    stroke-width="1"
-    opacity="0.7"
-  />
+</g>
 
-  <ellipse
-    cx="450"
-    cy="150"
-    rx="35"
-    ry="95"
-    fill="none"
-    stroke="#58a6ff"
-    stroke-width="1"
-    opacity="0.5"
-  />
 
-  <!-- Title -->
-  <text
-    x="450"
-    y="35"
-    text-anchor="middle"
-    font-family="monospace"
-    font-size="18"
-    font-weight="bold"
-    fill="#58a6ff"
-    letter-spacing="4">
+<!-- ================================================= -->
+<!-- HEADER -->
+<!-- ================================================= -->
 
-    OMKAR // ENGINEERING CORE
+<text x="45" y="42"
+      font-family="monospace"
+      font-size="17"
+      font-weight="bold"
+      letter-spacing="4"
+      fill="#79c0ff">
 
+OMKAR // STORM CORE
+
+</text>
+
+<text x="955" y="42"
+      text-anchor="end"
+      font-family="monospace"
+      font-size="12"
+      letter-spacing="2"
+      fill="#8b949e">
+
+v3.0
+
+</text>
+
+
+<!-- ================================================= -->
+<!-- SYSTEM STATUS -->
+<!-- ================================================= -->
+
+<circle cx="48" cy="75"
+        r="5"
+        fill="#3fb950"
+        filter="url(#glow)"/>
+
+<text x="63" y="80"
+      font-family="monospace"
+      font-size="11"
+      font-weight="bold"
+      fill="#3fb950">
+
+SYSTEM ONLINE
+
+</text>
+
+
+<!-- ================================================= -->
+<!-- ENERGY NETWORK -->
+<!-- ================================================= -->
+
+<g stroke="#58a6ff"
+   stroke-width="2"
+   fill="none"
+   opacity="0.85"
+   filter="url(#glow)">
+
+  <!-- Upper left -->
+  <path d="M405 150 L300 110 L145 110"/>
+
+  <!-- Upper right -->
+  <path d="M595 150 L700 110 L855 110"/>
+
+  <!-- Lower left -->
+  <path d="M405 210 L300 250 L145 250"/>
+
+  <!-- Lower right -->
+  <path d="M595 210 L700 250 L855 250"/>
+
+</g>
+
+
+<!-- ================================================= -->
+<!-- ENERGY NODES -->
+<!-- ================================================= -->
+
+<g fill="#79c0ff"
+   filter="url(#glow)">
+
+  <circle cx="300" cy="110" r="5"/>
+  <circle cx="700" cy="110" r="5"/>
+
+  <circle cx="300" cy="250" r="5"/>
+  <circle cx="700" cy="250" r="5"/>
+
+</g>
+
+
+<!-- ================================================= -->
+<!-- DOMAIN LABELS -->
+<!-- ================================================= -->
+
+<g font-family="monospace"
+   font-size="13"
+   font-weight="bold"
+   letter-spacing="2"
+   fill="#79c0ff">
+
+  <text x="145" y="103">
+    AI ENGINEERING
   </text>
 
-  <!-- Bottom identity -->
-  <text
-    x="450"
-    y="275"
-    text-anchor="middle"
-    font-family="monospace"
-    font-size="14"
-    fill="#8b949e"
-    letter-spacing="3">
-
-    AI • MACHINE LEARNING • SYSTEMS • DATA
-
+  <text x="855" y="103"
+        text-anchor="end">
+    MACHINE LEARNING
   </text>
 
-  <!-- System status -->
-  <text
-    x="35"
-    y="275"
-    font-family="monospace"
-    font-size="11"
-    fill="#3fb950">
-
-    ● SYSTEM ONLINE
-
+  <text x="145" y="272">
+    DATA SCIENCE
   </text>
+
+  <text x="855" y="272"
+        text-anchor="end">
+    SOFTWARE SYSTEMS
+  </text>
+
+</g>
+
+
+<!-- ================================================= -->
+<!-- LIGHTNING -->
+<!-- ================================================= -->
+
+<g stroke="#ffffff"
+   stroke-width="3"
+   fill="none"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   filter="url(#glow)">
+
+  <path d="M320 110
+           L345 128
+           L325 148
+           L370 154"/>
+
+  <path d="M680 110
+           L655 128
+           L675 148
+           L630 154"/>
+
+  <path d="M320 250
+           L345 232
+           L325 212
+           L370 206"/>
+
+  <path d="M680 250
+           L655 232
+           L675 212
+           L630 206"/>
+
+</g>
+
+
+<!-- ================================================= -->
+<!-- CENTRAL ENERGY GLOW -->
+<!-- ================================================= -->
+
+<circle cx="500"
+        cy="180"
+        r="100"
+        fill="#1f6feb"
+        opacity="0.12"
+        filter="url(#softGlow)"/>
+
+
+<!-- ================================================= -->
+<!-- CENTRAL CORE -->
+<!-- ================================================= -->
+
+<circle cx="500"
+        cy="180"
+        r="72"
+        fill="#0d1117"
+        stroke="#79c0ff"
+        stroke-width="2"
+        filter="url(#glow)"/>
+
+<circle cx="500"
+        cy="180"
+        r="52"
+        fill="url(#core)"/>
+
+<circle cx="500"
+        cy="180"
+        r="18"
+        fill="#ffffff"
+        filter="url(#glow)"/>
+
+
+<!-- ================================================= -->
+<!-- CORE ORBITS -->
+<!-- ================================================= -->
+
+<ellipse cx="500"
+         cy="180"
+         rx="110"
+         ry="42"
+         fill="none"
+         stroke="#58a6ff"
+         stroke-width="1"
+         opacity="0.7"/>
+
+<ellipse cx="500"
+         cy="180"
+         rx="42"
+         ry="110"
+         fill="none"
+         stroke="#58a6ff"
+         stroke-width="1"
+         opacity="0.55"/>
+
+
+<!-- ================================================= -->
+<!-- CORE LABEL -->
+<!-- ================================================= -->
+
+<text x="500"
+      y="185"
+      text-anchor="middle"
+      font-family="monospace"
+      font-size="10"
+      font-weight="bold"
+      letter-spacing="2"
+      fill="#0d1117">
+
+CORE
+
+</text>
+
+
+<!-- ================================================= -->
+<!-- MAIN IDENTITY -->
+<!-- ================================================= -->
+
+<text x="500"
+      y="320"
+      text-anchor="middle"
+      font-family="monospace"
+      font-size="24"
+      font-weight="bold"
+      letter-spacing="5"
+      fill="#ffffff">
+
+⚡ OMKAR GHORPADE
+
+</text>
+
+
+<!-- ================================================= -->
+<!-- OPEN SOURCE IDENTITY -->
+<!-- ================================================= -->
+
+<text x="500"
+      y="347"
+      text-anchor="middle"
+      font-family="monospace"
+      font-size="12"
+      font-weight="bold"
+      letter-spacing="3"
+      fill="#79c0ff">
+
+OPEN SOURCE
+
+</text>
+
+
+<!-- ================================================= -->
+<!-- FOOTER STATUS -->
+<!-- ================================================= -->
+
+<text x="45"
+      y="375"
+      font-family="monospace"
+      font-size="10"
+      letter-spacing="1"
+      fill="#8b949e">
+
+BUILD MODE: ACTIVE
+
+</text>
+
+<text x="955"
+      y="375"
+      text-anchor="end"
+      font-family="monospace"
+      font-size="10"
+      letter-spacing="1"
+      fill="#8b949e">
+
+ENERGY: ONLINE
+
+</text>
+
 
 </svg>
