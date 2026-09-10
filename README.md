@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/om-ghorpadeai/om-ghorpadeai/main/assets/omkar-storm-name.svg" width="850" alt="Omkar Ghorpade">
-
+<img src="./omkar-storm-name.svg" width="850" alt="Omkar Ghorpade">
 ### AI ENGINEERING • MACHINE LEARNING • SOFTWARE • SYSTEMS
 
 **Building things that teach me how the world works.**
