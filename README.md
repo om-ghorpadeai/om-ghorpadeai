@@ -1,12 +1,27 @@
-# 👋 Hi, I'm Omkar Ghorpade.
+# 👋 Hi, I'm Omkar Ghorpade
 
-### 🤖 AI & Data Science Engineering Student | Future AI Engineer
+### AI & Data Science Engineering Student • Builder • Problem Solver
 
-I'm an engineering student focused on **Artificial Intelligence, Data Science, Python, Machine Learning, and AI Engineering**.
+I build things to understand how they work.
 
-I learn by building — turning concepts into projects, solving problems, experimenting with new technologies, and continuously improving my engineering skills.
+Currently exploring **AI Engineering, software systems, data, backend development, and developer tools** — while turning what I learn into real projects.
 
-> 🚀 **Learn → Build → Debug → Understand → Improve → Repeat**
+```text
+Learn → Build → Break → Debug → Improve → Ship
+```
+
+### ⚡ What I'm working on
+
+* 🤖 AI-powered applications and assistants
+* 🦫 Go & Python for software and systems
+* 📊 Data Science & Machine Learning
+* 🧠 DSA & problem solving
+* 🐳 Docker, APIs & deployment
+* 🌐 Full-stack applications
+
+> I don't want to just collect technologies.
+> I want to understand them well enough to build with them.
+
 
 -----
 
