@@ -17,7 +17,11 @@
 </a>
 
 </div>
+<div align="center">
 
+<img src="./assets/storm-core.svg" width="900" alt="OMKAR Engineering Core">
+
+</div>
 ---
 
 <div align="center">
