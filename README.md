@@ -6,10 +6,6 @@
 
 **Building things that teach me how the world works.**
 
-<br>
-
-\
-
 </div>
 
 ---
