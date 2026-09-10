@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="./omkar-storm-name.svg" width="850" alt="Omkar Ghorpade">
-<img src="./assets/identity-cycle.svg" width="850" alt="Omkar Ghorpade engineering focus">
+<img src="./assets/identity-electric.gif" width="850" alt="Omkar Ghorpade engineering focus">
 
 **Building things that teach me how the world works.**
 
