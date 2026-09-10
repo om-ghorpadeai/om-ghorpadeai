@@ -1,0 +1,127 @@
+<svg width="1000" height="220" viewBox="0 0 1000 220" xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+
+  <linearGradient id="energy" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#7dd3fc"/>
+    <stop offset="50%" stop-color="#ffffff"/>
+    <stop offset="100%" stop-color="#7dd3fc"/>
+  </linearGradient>
+
+  <filter id="glow">
+    <feGaussianBlur stdDeviation="5" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+
+</defs>
+
+<!-- Dark Storm Background -->
+<rect width="1000" height="220" rx="18" fill="#0d1117"/>
+
+<!-- Technical grid -->
+<g opacity="0.12" stroke="#7dd3fc" stroke-width="1">
+  <path d="M0 55H1000"/>
+  <path d="M0 110H1000"/>
+  <path d="M0 165H1000"/>
+  <path d="M100 0V220"/>
+  <path d="M200 0V220"/>
+  <path d="M300 0V220"/>
+  <path d="M400 0V220"/>
+  <path d="M500 0V220"/>
+  <path d="M600 0V220"/>
+  <path d="M700 0V220"/>
+  <path d="M800 0V220"/>
+  <path d="M900 0V220"/>
+</g>
+
+<!-- Lightning -->
+<g filter="url(#glow)" opacity="0.9">
+
+  <path
+    d="M155 18 L125 82 L150 82 L112 145 L175 72 L150 72 Z"
+    fill="#ffffff">
+
+    <animate
+      attributeName="opacity"
+      values="0.15;1;0.25;1;0.15"
+      dur="2.8s"
+      repeatCount="indefinite"/>
+  </path>
+
+  <path
+    d="M845 75 L815 125 L838 125 L808 178 L865 115 L842 115 Z"
+    fill="#ffffff">
+
+    <animate
+      attributeName="opacity"
+      values="1;0.2;1;0.3;1"
+      dur="3.4s"
+      repeatCount="indefinite"/>
+  </path>
+
+</g>
+
+<!-- Main Name -->
+<text
+  x="500"
+  y="125"
+  text-anchor="middle"
+  font-family="Arial, Helvetica, sans-serif"
+  font-size="64"
+  font-weight="700"
+  letter-spacing="5"
+  fill="url(#energy)"
+  filter="url(#glow)">
+
+  OMKAR GHORPADE
+
+  <animate
+    attributeName="opacity"
+    values="0.82;1;0.88;1;0.82"
+    dur="3s"
+    repeatCount="indefinite"/>
+
+</text>
+
+<!-- Energy line -->
+<rect
+  x="250"
+  y="150"
+  width="500"
+  height="2"
+  rx="2"
+  fill="#7dd3fc"
+  opacity="0.7">
+
+  <animate
+    attributeName="width"
+    values="300;500;300"
+    dur="3s"
+    repeatCount="indefinite"/>
+
+  <animate
+    attributeName="x"
+    values="350;250;350"
+    dur="3s"
+    repeatCount="indefinite"/>
+
+</rect>
+
+<!-- Status -->
+<text
+  x="500"
+  y="185"
+  text-anchor="middle"
+  font-family="monospace"
+  font-size="13"
+  letter-spacing="4"
+  fill="#7dd3fc">
+
+  ⚡ SYSTEM ONLINE // BUILD MODE ACTIVE
+
+</text>
+
+</svg>
