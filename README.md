@@ -8,8 +8,13 @@
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/om-ghorpadeai)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+<a href="https://github.com/om-ghorpadeai">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/omkar-ghorpade-692278376/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 
 </div>
 
@@ -48,7 +53,7 @@ I learn by **building, experimenting, breaking things, and understanding why the
 
 ### 🤖 AI Systems
 
-Exploring intelligent applications, AI assistants, automation and systems that can understand and act on information.
+Exploring intelligent applications, AI assistants, automation, and systems that can understand and work with information.
 
 **Focus:** AI • Python • APIs • Agents
 
@@ -58,7 +63,7 @@ Exploring intelligent applications, AI assistants, automation and systems that c
 
 ### 🧠 Machine Learning
 
-Learning how models work from the fundamentals while building practical experiments with real datasets.
+Learning ML from the fundamentals while turning concepts into practical experiments with real datasets.
 
 **Focus:** Python • NumPy • Pandas • ML
 
@@ -70,7 +75,7 @@ Learning how models work from the fundamentals while building practical experime
 
 ### ⚙️ Software & Systems
 
-Exploring backend engineering, system-level programming, APIs, containers and performance.
+Exploring backend engineering, system-level programming, APIs, containers, and performance.
 
 **Focus:** Go • Python • Linux • Docker
 
@@ -78,9 +83,9 @@ Exploring backend engineering, system-level programming, APIs, containers and pe
 
 <td width="50%">
 
-### 📊 Data Engineering
+### 📊 Data Intelligence
 
-Turning raw data into something useful, understandable and actionable.
+Working with data to discover patterns, build useful analysis, and turn information into decisions.
 
 **Focus:** SQL • Data Analysis • Visualization
 
@@ -90,28 +95,25 @@ Turning raw data into something useful, understandable and actionable.
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Technology Stack
 
-### Languages
+### 💻 Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=python,go,js,ts,sql" alt="Languages">
+</p>
 
-### AI & Data
+### 🤖 AI & Data
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn" alt="AI and Data">
+</p>
 
-### Development & Infrastructure
+### ⚙️ Development & Infrastructure
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" alt="Development tools">
+</p>
 
 ---
 
@@ -120,13 +122,14 @@ Turning raw data into something useful, understandable and actionable.
 > I don't want to only learn technologies.
 > I want to **build with them**.
 
-| Area | What I'm Exploring |
+| Area | Exploring |
 |---|---|
-| 🤖 AI | Intelligent applications, assistants & AI agents |
-| 🧠 ML | Model fundamentals, training & evaluation |
-| 📊 Data | Analysis, visualization & data pipelines |
+| 🤖 Artificial Intelligence | Intelligent applications, assistants & agents |
+| 🧠 Machine Learning | Models, training, evaluation & experimentation |
+| 📊 Data Science | Analysis, visualization & data workflows |
 | ⚙️ Backend | APIs, services & system architecture |
-| 🦫 Go | Systems programming & high-performance services |
+| 🦫 Go | Systems programming & backend services |
+| 🐍 Python | AI, automation, data & backend |
 | 🐳 DevOps | Docker, CI/CD & deployment |
 | 🧩 DSA | Algorithms, data structures & problem solving |
 
@@ -135,56 +138,67 @@ Turning raw data into something useful, understandable and actionable.
 ## 🚀 Featured Projects
 
 ### 🛡️ SentinelOS
+
 **AI-powered system intelligence platform**
 
-A project exploring system monitoring, resource analysis, anomaly detection and intelligent explanations.
+An experimental project focused on system monitoring, resource analysis, anomaly detection, and intelligent explanations.
+
+**Stack**
 
 `Go` `Python` `AI` `Systems` `Docker`
 
-> 🚧 Building
+**Status:** 🚧 Building
 
 ---
 
 ### 🤖 Gyra
+
 **Personal AI assistant**
 
-An experimental AI assistant focused on voice interaction, automation, tools and a modular architecture.
+An experimental AI assistant exploring voice interaction, automation, tool usage, and modular AI architecture.
+
+**Stack**
 
 `Python` `AI` `Automation` `APIs`
 
-> 🧪 Experimental
+**Status:** 🧪 Experimental
 
 ---
 
-### 📊 More projects coming
+### 🔬 More Experiments
 
-I'm building this profile around **real projects rather than a collection of tutorials.**
+This profile will grow around **real projects, experiments, and engineering work** rather than a collection of tutorials.
 
 ---
 
 ## 🧠 How I Learn
 
 ```text
-                    ┌─────────────┐
-                    │    IDEA     │
-                    └──────┬──────┘
-                           ↓
-                    ┌─────────────┐
-                    │    BUILD    │
-                    └──────┬──────┘
-                           ↓
-                    ┌─────────────┐
-                    │    BREAK    │
-                    └──────┬──────┘
-                           ↓
-                    ┌─────────────┐
-                    │  UNDERSTAND │
-                    └──────┬──────┘
-                           ↓
-                    ┌─────────────┐
-                    │   IMPROVE   │
-                    └──────┬──────┘
-                           ↓
-                    ┌─────────────┐
-                    │    SHIP     │
-                    └─────────────┘
+             ┌─────────────┐
+             │    IDEA     │
+             └──────┬──────┘
+                    │
+                    ▼
+             ┌─────────────┐
+             │    BUILD    │
+             └──────┬──────┘
+                    │
+                    ▼
+             ┌─────────────┐
+             │    BREAK    │
+             └──────┬──────┘
+                    │
+                    ▼
+             ┌─────────────┐
+             │  UNDERSTAND │
+             └──────┬──────┘
+                    │
+                    ▼
+             ┌─────────────┐
+             │   IMPROVE   │
+             └──────┬──────┘
+                    │
+                    ▼
+             ┌─────────────┐
+             │    SHIP     │
+             └─────────────┘
