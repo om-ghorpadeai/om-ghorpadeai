@@ -1,0 +1,35 @@
+name: ⚡ Storm Runner Contribution Game
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+
+  workflow_dispatch:
+
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    name: Generate Storm Runner
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate Galaga contribution game
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: om-ghorpadeai
+          games: "galaga"
+          hide_month_labels: "false"
+
+      - name: Publish game
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
