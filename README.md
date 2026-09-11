@@ -17,18 +17,51 @@
 
 ---
 
-## ⚡ OMKAR // ENGINEERING STATUS
+<h2>💗 OMKAR // ENGINEERING STATUS</h2>
+
+<table>
+<tr>
+<td align="center" width="25%" bgcolor="#21152F">
+
+### 🤖 AI
+
+<sub><b>BUILDING</b></sub>
+
+</td>
+
+<td align="center" width="25%" bgcolor="#2B1730">
+
+### 🧠 ML
+
+<sub><b>LEARNING</b></sub>
+
+</td>
+
+<td align="center" width="25%" bgcolor="#24172F">
+
+### ⚙️ SYSTEMS
+
+<sub><b>EXPLORING</b></sub>
+
+</td>
+
+<td align="center" width="25%" bgcolor="#30152D">
+
+### 📊 DATA
+
+<sub><b>BUILDING</b></sub>
+
+</td>
+</tr>
+</table>
+
+<br>
 
 <div align="center">
 
-| 🤖 AI | 🧠 MACHINE LEARNING | ⚙️ SYSTEMS | 📊 DATA |
-|:---:|:---:|:---:|:---:|
-| BUILDING | LEARNING | EXPLORING | BUILDING |
+`⚡ CURRENT MODE: ACTIVE` &nbsp;&nbsp; `💗 ENERGY: BUILDING` &nbsp;&nbsp; `🧠 STATUS: LEARNING`
 
 </div>
-
----
-
 ## 🧠 ABOUT ME
 
 I'm an AI & Data Science engineering student interested in understanding how intelligent software is built.
