@@ -10,56 +10,43 @@
 ---
 
 <div align="center">
+<div align="center">
+  <img
+    src="./assets/storm-core.gif"
+    width="100%"
+    alt="Omkar Storm Core"
+  />
 
-<img src="./assets/storm-core.svg" width="900" alt="Omkar Storm Core">
 
 </div>
-
 ---
+## ⚡ SYSTEM BOOT SEQUENCE
 
-<h2>💗 OMKAR // ENGINEERING STATUS</h2>
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                  ⚡ OMKAR // SYSTEM BOOT                     ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  [✓] INITIALIZING AI ENGINEERING CORE                       ║
+║  [✓] LOADING MACHINE LEARNING MODULE                        ║
+║  [✓] CONNECTING DATA SCIENCE SYSTEMS                        ║
+║  [✓] ACTIVATING SOFTWARE ENGINEERING MODE                   ║
+║  [✓] STARTING BACKEND SYSTEMS                               ║
+║  [✓] LOADING AI SYSTEMS                                     ║
+║  [✓] CONNECTING DEVELOPER TOOLS                             ║
+║  [✓] OPEN SOURCE PROTOCOL                                   ║
+║                                                              ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  STATUS       : ONLINE                                       ║
+║  MODE         : BUILD                                        ║
+║  POWER        : LEARNING                                     ║
+║  OBJECTIVE    : BUILD USEFUL SYSTEMS                         ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-<table>
-<tr>
-<td align="center" width="25%" bgcolor="#21152F">
-
-### 🤖 AI
-
-<sub><b>BUILDING</b></sub>
-
-</td>
-
-<td align="center" width="25%" bgcolor="#2B1730">
-
-### 🧠 ML
-
-<sub><b>LEARNING</b></sub>
-
-</td>
-
-<td align="center" width="25%" bgcolor="#24172F">
-
-### ⚙️ SYSTEMS
-
-<sub><b>EXPLORING</b></sub>
-
-</td>
-
-<td align="center" width="25%" bgcolor="#30152D">
-
-### 📊 DATA
-
-<sub><b>BUILDING</b></sub>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<div align="center">
-
-`⚡ CURRENT MODE: ACTIVE` &nbsp;&nbsp; `💗 ENERGY: BUILDING` &nbsp;&nbsp; `🧠 STATUS: LEARNING`
+> **⚡ BUILD • BREAK • UNDERSTAND • IMPROVE • SHIP**
 
 </div>
 ## 🧠 ABOUT ME
